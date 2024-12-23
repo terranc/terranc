@@ -33,4 +33,4 @@ console.log('Hello! I am Terran 🎉')
 - 🚀 A Full Stack Developer.
 - 🏷️ A Perfectionist.
 - ✉️ Email: terran.chao@gmail.com
-- <img height="16" src="https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/telegram/telegram.png" style="vertical-align: middle;" /> Telegram: [@damon1227](https://t.me/damon1227)
+- <img height="16" src="https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/telegram/telegram.png" 
